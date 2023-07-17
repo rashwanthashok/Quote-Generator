@@ -16,7 +16,7 @@ Rashwanth - Quote Generator
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Quote-Generator/
+     https://rashwanthashok.github.io/Quote-Generator/
 
 ## Getting Started
 
