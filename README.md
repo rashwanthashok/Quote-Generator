@@ -41,6 +41,8 @@ To explore or modify the code, follow these steps:
 
 3. Tweet Functionality: Share your favorite quotes with the world using the integrated tweet button. With a single click, you can instantly share a quote along with the author's name on Twitter, spreading positivity and motivation to your followers. Amplify the impact of meaningful quotes by easily sharing them on social media.
 
+## Deployment status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3d4539bb-4900-49ea-961d-f86fafc8c3df/deploy-status)](https://app.netlify.com/sites/jsprojects7-quote-generator/deploys)
 ## Contributing
 
 Contributions are always welcome!
